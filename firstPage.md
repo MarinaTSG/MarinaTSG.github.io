@@ -1,6 +1,6 @@
 layout: page
 title: "firstPage.md"
-permalink: /https://marinatsg.github.io
+permalink: /firstPage
 
 # Überschrift
 
